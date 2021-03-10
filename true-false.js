@@ -2,11 +2,12 @@
 // false
 // 0
 // ""
-// udenfined
+// undenfined
 // null
 // NaN
 // Truthy:
-// '0', ' ' []
+// '0', ' ', []
+//'false'
 let name = 12;
 if(name || name == 0 ) {
      console.log("condition is true");
